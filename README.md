@@ -24,3 +24,8 @@
 ![Nomor 6.b Front End](/6/6.b.png)
 ![Nomor 6.c-1 Add](/6/6.c-1.png)
 ![Nomor 6.c-2 Add (Filled form)](/6/6.c-2.png)
+![Nomor 6.c-3 Add (Success State)](/6/6.c-3.png)
+![Nomor 6.c-4 Edit (Filled form edit)](/6/6.c-4.png)
+![Nomor 6.c-5 Edit (Success State)](/6/6.c-5.png)
+![Nomor 6.c-6 Delete (Success State)](/6/6.c-6.png)
+
